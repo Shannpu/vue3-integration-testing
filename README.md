@@ -21,7 +21,8 @@ npm run preview
 ### Run Testing [Vitest](https://vitest.dev/)
 
 ```sh
-npm run test:unit
+npm run test
+npm run coverage
 ```
 
 ## Directory
